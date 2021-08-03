@@ -28,7 +28,4 @@ At this point you should see the web viewer on the layout load up with the HTML 
 
 There’s always been quite the barrier in JavaScript development in FileMaker. This wall is made up of different pieces: knowing JavaScript, writing code efficiently, seeing how it works in FileMaker, using data from FileMaker, and deploying to the app. 
 
-## Proposal
-
-With a proper JS-in-FM development environment, FileMaker developers have most of the blocks of the wall removed. This set up allows the quickest way for a developer to create an integration using JavaScript.
 
