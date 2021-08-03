@@ -31,4 +31,4 @@ There’s always been quite the barrier in JavaScript development in FileMaker. 
 ## Proposal
 
 With a proper JS-in-FM development environment, FileMaker developers have most of the blocks of the wall removed. This set up allows the quickest way for a developer to create an integration using JavaScript.
-This course will immerse you in the environment. By the end of your stay, you’ll be fluent in creating simple and complex problem-solving widgets for your application. Through studying the content and practicing for yourself, you’ll feel at ease with this entire workflow.
+
